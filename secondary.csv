@@ -1,0 +1,31 @@
+feat_id,feat_name,feat_description,model_feat_imp_train,feat_rank_train
+10,team1_venue_performance,team1 avg performance on that ground id,21.46199469428331,1
+11,team2_venue_performance,team2 avg performance on that ground id,19.394031234552422,2
+19,team1_bowler_rating,team1 avg bowler rating,3.5957926560605316,3
+6,team1only_avg_runs_last15,team1's avg inning runs in last 15 games,3.5709572214973164,4
+18,team1_batsman_rating,team1 avg batsman rating,3.434520864810324,5
+3,match_dt,match date,2.9145227607960873,6
+7,team1_winp_team2_last15,Team1's win percentage against Team2 in last 15 games,2.8743250247663044,7
+4,team_count_50runs_last15,Ratio of number of 50s by players in team1 to number of 50s by players in team2 in last 15 games,2.816963763382028,8
+22,avg_sixes,average sixes scored,2.6757384974719405,9
+23,avg_fours,average fours scored,2.4611441008552135,10
+21,team2_bowler_rating,team2 avg bowler rating,2.448676249831616,11
+20,team2_batsman_rating,team2 avg batsman rating,2.440661181179558,12
+1,team1_id,unique id of team1,2.364167524443778,13
+8,team1_win_rate,team1 avg winning rate,2.2784511309974795,14
+2,team2_id,unique id of team2,2.2680953886834025,15
+26,avg_sixes_team2,average sixes scored by team2,2.1959411975151095,16
+12,team1_recent_performance,Recentmost performance of team1,2.085567123459421,17
+25,avg_runs,average runs scored,2.0800549910839092,18
+5,team_winp_last5,Ratio of team1's win % to team2's win % in last 5 games,2.047973627031715,19
+16,team2_night match_win_rate,team2 win rate in night matches,2.0446042583460127,20
+28,avg_wicket_team2,average wickets taken by team 2,1.9436425149804033,21
+17,team2_day match_win_rate,team2 win rate in day matches,1.8774798023293147,22
+13,team2_recent_performance,Recentmost performance of team2,1.8204234554219199,23
+24,avg_wicket,average wickets taken,1.7275546722185426,24
+0,match id,unique id of a game,1.4416559132517015,25
+27,avg_fours_team2,average fours scored by team2,1.3966641997569722,26
+9,team2_win_rate,team2 avg winning rate,1.191108210483272,27
+29,avg_sixes_ground,average sixes scored on the ground,0.8530014744311115,28
+15,team2_batting_first_win_rate,team2 avg winning rate if batting first,0.1812455013418068,29
+14,team1_batting_first_win_rate,team1 avg winning rate if batting first,0.11304076473746334,30
